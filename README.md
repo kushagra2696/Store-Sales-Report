@@ -1,0 +1,1 @@
+Incorporated data analysis techniques , specializing in Time Series analysis, to deliver valuable insights, Sales forecasting of 60 Days with 95% accuracy , and Interactive dashboard creation ,driving business success.
